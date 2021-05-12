@@ -1,6 +1,6 @@
 
 <h1 align="center"> First challenge in ReactJS by Ignite </h1>
-<p align="center"> Primeiro desafio in ReactJS pelo Ignite </p>
+<p align="center"> Primeiro desafio em ReactJS pelo Ignite </p>
 
 <p align="center">
   <img alt="To-Do in ReactJS" title="To-Do in ReactJS" src="./public/todo-reactjs.png"  />
