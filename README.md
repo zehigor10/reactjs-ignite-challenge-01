@@ -18,8 +18,8 @@ O desafio realizado é uma aplicação onde o seu principal objetivo é o dese
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- ReactJS + TypeScript + Sass
+- ReactJS + TypeScript 
 
 ---
 
-Feito com ajuda pela Rocketseat.
+Utilizando o template da Rocktetseat e feito com ajuda da Rocketseat.
