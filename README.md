@@ -18,7 +18,7 @@ O desafio realizado é uma aplicação onde o seu principal objetivo é o dese
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- ReactJS + TypeScript
+- ReactJS + TypeScript + Sass
 
 ---
 
