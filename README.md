@@ -8,7 +8,7 @@
 
 ## 💻 Desafio:
 
-O desafio realizado é uma aplicação onde o seu principal objetivo é o desenvolvimento de algumas funcionalidades para uma pequena aplicação de atividades à fazer, para treinar um pouco mais sobre manipulação do estado no ReactJS, o desafio possui as seguintes funcionalidades abaixo: 
+O desafio realizado é uma aplicação onde o seu principal objetivo é o desenvolvimento de algumas funcionalidades para uma pequena aplicação de atividades à fazer, para treinar um pouco mais sobre manipulação do estado no ReactJS. O desafio possui as seguintes funcionalidades abaixo: 
 
 - Adicionar uma nova tarefa
 - Remover uma tarefa
